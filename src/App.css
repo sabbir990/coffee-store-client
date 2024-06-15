@@ -1,0 +1,19 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Roboto+Slab:wght@100..900&display=swap');
+
+.upBannerBg{
+    width: 100%;
+    padding: 10px 0 10px 0;
+    background-image: url('../../coffee-store-espresso-emporium-main/images/more/15.jpg');
+}
+
+.logo-text {
+    font-family: "Caveat", cursive;
+    color: white;
+    font-size: 2rem;
+}
+
+.back-btn{
+    text-shadow: black 1px 0 10px;
+    font-family: "Caveat", cursive;
+}
